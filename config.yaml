@@ -1,2 +1,4 @@
-selected_features: ["PPE", "DFA"]
+features:
+  - PPE
+  - DFA
 path: "parkinsons_model.joblib"
